@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Jana",
+      "id": 2
+    },
+    {
+      "name": "Gladys",
+      "id": 3
+    },
+    {
+      "name": "Annette",
+      "id": 4
+    },
+    {
+      "name": "Margarita",
+      "id": 5
+    },
+    {
+      "name": "Marion",
+      "id": 6
+    },
+    {
+      "name": "Marian",
+      "id": 7
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
